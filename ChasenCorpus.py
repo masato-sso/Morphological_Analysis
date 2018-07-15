@@ -39,4 +39,4 @@ class ChasenCorpus(object):
             self.conj_form=tokens[5]
         else:
             self.conj_type=''
-            self.conj_form
+            self.conj_form=''
